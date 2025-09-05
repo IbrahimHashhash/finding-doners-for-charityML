@@ -1,4 +1,4 @@
-# Data Scientist Nanodegree: Finding Donors for CharityML
+# Intro to Machine Learning with TensorFLow Nano Degree: Finding Donors for CharityML
 
 Welcome to the **first project** of the Data Scientist Nanodegree! In this project, the goal is to predict whether an individual earns more than $50,000 per year using data collected from the **1994 U.S. Census**. This information can help CharityML, a non-profit organization, identify potential donors more accurately.  
 
